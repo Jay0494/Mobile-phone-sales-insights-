@@ -11,21 +11,21 @@ Here's your data analysis portfolio piece with the clickable table of contents f
 
 ### Table of Contents
 
-  * [Project Overview](project-overview)
-  * [1. Understanding the Business Needs: The Foundation of Insight](understanding-the-business-needs-the-foundation-of-insight)
-  * [2. Data Acquisition & Preparation: Transforming Raw Data into Actionable Assets](data-acquisition--preparation-transforming-raw-data-into-actionable-assets)
-  * [3. Exploratory Data Analysis & Key Insights: Unveiling the Narrative of 2024 Sales](exploratory-data-analysis--key-insights-unveiling-the-narrative-of-2024-sales)
-      * [Overall Performance Snapshot](overall-performance-snapshot)
-      * [Temporal Sales Dynamics](temporal-sales-dynamics)
-      * [Revenue vs. Purchase Discrepancy](revenue-vs-purchase-discrepancy)
-      * [Operating System Performance](operating-system-performance)
-      * [Geographical Revenue Contribution](revenue-contribution)
-      * [Brand Performance](brand-performance)
-      * [Product Attribute Analysis](product-attribute-analysis)
-      * [Customer Demographics](customer-demographics)
-  * [4. Advanced Analytics: Unveiling the Correlation](advanced-analytics-unveiling-the-correlation)
-  * [5. Recommendations for 2025: A Data-Driven Roadmap](recommendations-for-2025-a-data-driven-roadmap)
-  * [Conclusion](conclusion)
+  * [Project Overview](#project-overview)
+  * [1. Understanding the Business Needs: The Foundation of Insight](#understanding-the-business-needs-the-foundation-of-insight)
+  * [2. Data Acquisition & Preparation: Transforming Raw Data into Actionable Assets](#data-acquisition--preparation-transforming-raw-data-into-actionable-assets)
+  * [3. Exploratory Data Analysis & Key Insights: Unveiling the Narrative of 2024 Sales](#exploratory-data-analysis--key-insights-unveiling-the-narrative-of-2024-sales)
+      * [Overall Performance Snapshot](#overall-performance-snapshot)
+      * [Temporal Sales Dynamics](#temporal-sales-dynamics)
+      * [Revenue vs. Purchase Discrepancy](#revenue-vs-purchase-discrepancy)
+      * [Operating System Performance](#operating-system-performance)
+      * [Geographical Revenue Contribution](#revenue-contribution)
+      * [Brand Performance](#brand-performance)
+      * [Product Attribute Analysis](#product-attribute-analysis)
+      * [Customer Demographics](#customer-demographics)
+  * [4. Advanced Analytics: Unveiling the Correlation](#advanced-analytics-unveiling-the-correlation)
+  * [5. Recommendations for 2025: A Data-Driven Roadmap](#recommendations-for-2025-a-data-driven-roadmap)
+  * [Conclusion](#conclusion)
 
 -----
 
