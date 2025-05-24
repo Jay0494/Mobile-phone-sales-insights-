@@ -1,24 +1,31 @@
-This re-draft includes a clickable table of contents suitable for GitHub, achieved by using markdown heading links.
+To achieve the "clickable" table of contents on GitHub, you need to use anchor links. This involves:
+
+1.  Creating a link in the table of contents using the format `[Section Title](#section-title-id)`.
+2.  Ensuring each target heading has a unique ID. GitHub automatically generates these IDs for headings by converting the heading text to lowercase and replacing spaces with hyphens.
+
+Here's your data analysis portfolio piece with the clickable table of contents for GitHub:
 
 ## Driving 2025 Sales: A Data-Driven Strategy for Mr. Chang's Mobile Empire
 
+-----
+
 ### Table of Contents
 
-  * [Project Overview](https://www.google.com/search?q=%23project-overview)
-  * [1. Understanding the Business Needs: The Foundation of Insight](https://www.google.com/search?q=%231-understanding-the-business-needs-the-foundation-of-insight)
-  * [2. Data Acquisition & Preparation: Transforming Raw Data into Actionable Assets](https://www.google.com/search?q=%232-data-acquisition--preparation-transforming-raw-data-into-actionable-assets)
-  * [3. Exploratory Data Analysis & Key Insights: Unveiling the Narrative of 2024 Sales](https://www.google.com/search?q=%233-exploratory-data-analysis--key-insights-unveiling-the-narrative-of-2024-sales)
-      * [Overall Performance Snapshot](https://www.google.com/search?q=%23overall-performance-snapshot)
-      * [Temporal Sales Dynamics](https://www.google.com/search?q=%23temporal-sales-dynamics)
-      * [Revenue vs. Purchase Discrepancy](https://www.google.com/search?q=%23revenue-vs-purchase-discrepancy)
-      * [Operating System Performance](https://www.google.com/search?q=%23operating-system-performance)
-      * [Geographical Revenue Contribution](https://www.google.com/search?q=%23geographical-revenue-contribution)
-      * [Brand Performance](https://www.google.com/search?q=%23brand-performance)
-      * [Product Attribute Analysis](https://www.google.com/search?q=%23product-attribute-analysis)
-      * [Customer Demographics](https://www.google.com/search?q=%23customer-demographics)
-  * [4. Advanced Analytics: Unveiling the Correlation](https://www.google.com/search?q=%234-advanced-analytics-unveiling-the-correlation)
-  * [5. Recommendations for 2025: A Data-Driven Roadmap](https://www.google.com/search?q=%235-recommendations-for-2025-a-data-driven-roadmap)
-  * [Conclusion](https://www.google.com/search?q=%23conclusion)
+  * [Project Overview](project-overview)
+  * [1. Understanding the Business Needs: The Foundation of Insight](understanding-the-business-needs-the-foundation-of-insight)
+  * [2. Data Acquisition & Preparation: Transforming Raw Data into Actionable Assets](data-acquisition--preparation-transforming-raw-data-into-actionable-assets)
+  * [3. Exploratory Data Analysis & Key Insights: Unveiling the Narrative of 2024 Sales](exploratory-data-analysis--key-insights-unveiling-the-narrative-of-2024-sales)
+      * [Overall Performance Snapshot](overall-performance-snapshot)
+      * [Temporal Sales Dynamics](temporal-sales-dynamics)
+      * [Revenue vs. Purchase Discrepancy](revenue-vs-purchase-discrepancy)
+      * [Operating System Performance](operating-system-performance)
+      * [Geographical Revenue Contribution](revenue-contribution)
+      * [Brand Performance](brand-performance)
+      * [Product Attribute Analysis](product-attribute-analysis)
+      * [Customer Demographics](customer-demographics)
+  * [4. Advanced Analytics: Unveiling the Correlation](advanced-analytics-unveiling-the-correlation)
+  * [5. Recommendations for 2025: A Data-Driven Roadmap](recommendations-for-2025-a-data-driven-roadmap)
+  * [Conclusion](conclusion)
 
 -----
 
@@ -42,7 +49,7 @@ My initial step was to deeply engage with Mr. Chang and his team to fully compre
 
 With a clear understanding of the business objectives, I collaborated closely with Mr. Chang's data management team to gain secure access to the raw sales data. The data, initially in a less-than-optimal format, required significant processing to unlock its full potential. Leveraging **Power Query**, I executed a meticulous data preparation phase, focusing on:
 
-  * **Irrelevant Column Removal:** Streamlining the dataset by eliminating columns that did not contribute to the analytical objectives, thereby improving processing efficiency and clarity.
+  * **Irrelevant Column Removal:** Streamlining the dataset by eliminating columns that didn't contribute to the analytical objectives, thereby improving processing efficiency and clarity.
   * **Fact and Dimension Table Separation:** Implementing a **star schema design** to create a robust and scalable data model. This involved separating transactional data (facts) from descriptive attributes (dimensions) such as products, customers, and locations. This not only optimized query performance but also enhanced data integrity and ease of analysis.
   * **Data Type Formatting:** Ensuring data consistency and accuracy by meticulously formatting data types (e.g., numerical values, dates, text) to enable accurate calculations and prevent errors during analysis. This crucial step laid the groundwork for reliable insights.
 
