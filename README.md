@@ -52,14 +52,14 @@ With a clear understanding of the business objectives, I collaborated closely wi
 
 With the data meticulously prepared, I embarked on a comprehensive exploratory data analysis (EDA), employing both Power BI (for initial visualizations and dashboarding) and Python (for deeper statistical analysis and correlation studies). This phase was critical in uncovering the underlying trends and patterns that defined Mr. Chang's 2024 sales performance.
 
-#### Overall Performance Snapshot:
+### Overall Performance Snapshot:
 
   * **Total Revenue:** A commendable **$14.53 Million** was generated.
   * **Total Purchases:** **19,000 mobile phones** were sold.
   * **Average Transaction Value:** Each transaction held an average value of **$783**.
   * **Overall Monthly Sales Growth:** A positive trend with an average monthly growth of **9.84%**.
 
-#### Temporal Sales Dynamics:
+### Temporal Sales Dynamics:
 
 A preliminary view of monthly sales revealed distinct fluctuations, providing valuable insights into seasonal trends and market responsiveness:
 
@@ -76,7 +76,7 @@ A preliminary view of monthly sales revealed distinct fluctuations, providing va
       * **September:** -20.9%
         This significant decline warrants immediate attention. Understanding the contributing factors – whether it was a lack of promotional activity, increased competition, or broader economic factors – is crucial for strategic planning in 2025.
 
-#### Revenue vs. Purchase Discrepancy:
+### Revenue vs. Purchase Discrepancy:
 
   * **March, April, and August:** While these months saw an **increase in mobile phone purchases**, there was a concerning **corresponding drop in revenue**. This highlights a critical disconnect, suggesting potential issues such as:
       * Sales of lower-priced devices.
@@ -84,13 +84,13 @@ A preliminary view of monthly sales revealed distinct fluctuations, providing va
       * Increased returns or cancellations that impacted final revenue figures.
         This insight demands a deeper dive into product mix and pricing strategies during these periods.
 
-#### Operating System Performance:
+### Operating System Performance:
 
   * **Android Dominance:** Android phones were the unequivocal revenue driver, contributing a substantial **74.9% of total revenue**.
   * **iOS Contribution:** iOS devices accounted for **25.08%** of the revenue.
     This clear disparity suggests that while Android is the bread and butter, there might be untapped potential within the iOS market or opportunities to optimize the iOS product offering and marketing.
 
-#### Geographical Revenue Contribution:
+### Geographical Revenue Contribution:
 
 The store locations exhibited significant variations in revenue generation:
 
@@ -106,12 +106,12 @@ The store locations exhibited significant variations in revenue generation:
       * **Pakistan:** 2.63% of total revenue
         These regions represent significant opportunities for growth. Understanding the specific challenges and market dynamics in Bangladesh and Pakistan is paramount to developing targeted strategies for improvement.
 
-#### Brand Performance:
+### Brand Performance:
 
   * **Apple Leads Revenue:** Despite Android's overall dominance, individual brand analysis revealed that **Apple contributed the most revenue at 25.08%**. This indicates a strong premium segment within Apple's user base.
   * **Xiaomi at the Bottom:** Xiaomi generated the least revenue at **12.53%**. This could be due to lower price points, less market penetration, or a different target demographic.
 
-#### Product Attribute Analysis:
+### Product Attribute Analysis:
 
   * **Color Preference:** **Black-colored phones were purchased the most at 22.4%**, indicating a strong consumer preference for this aesthetic.
 
@@ -128,7 +128,7 @@ The store locations exhibited significant variations in revenue generation:
       * **High-valued phones:** 11.58% of purchases
         The data clearly indicates that Mr. Chang's customer base predominantly opts for medium and low-valued mobile phones. This understanding is crucial for inventory planning, marketing efforts, and targeted promotions.
 
-#### Customer Demographics:
+### Customer Demographics:
 
   * **Age Segmentation:** Customers aged **26-33 years purchased more than any other age group**. This demographic represents the most lucrative target audience for marketing campaigns and product offerings.
   * **Gender Distribution:**
