@@ -203,7 +203,7 @@ Based on the comprehensive analysis, I've formulated a set of actionable recomme
 
       * **Maintain Optimal Inventory Levels:** Prevent stockouts of popular models, especially during peak seasons.
       * **Streamline Sales Processes:** Ensure efficient order fulfillment and reduce any friction points in the customer journey that could deter purchases.
-      * **Incentivize Bulk Purchases (where applicable):** Explore strategies for encouraging customers to purchase more than one device, especially for businesses or families.
+      * **Incentivize Bulk Purchases:** Explore strategies for encouraging customers to purchase more than one device, especially for businesses or families.
 
 -----
 
