@@ -9,8 +9,49 @@
 * **Data Preparation (Power Query):** Cleaned raw data, removed irrelevant columns, implemented a star schema (fact/dimension tables), and ensured correct data types.
 * **Exploratory Data Analysis (Power BI & Python):** Analyzed overall performance metrics, temporal sales trends, revenue vs. purchase discrepancies, operating system contributions, geographical performance, brand performance, product attribute preferences (color, storage, value segment), and customer demographics.
 * **Advanced Analytics (Python):** Conducted correlation studies, identifying a strong positive correlation (0.74) between sales and quantity purchased.
+```python
+import pandas as pd
+import numpy as np
+
+df = pd.read_excel(r"C:\Users\User\Downloads\Onyx Data - DataDNA Dataset Challenge - Mobile Phone Sales Dataset - May 2025.xlsx")
 
 
+pd.set_option('display.max_columns', None)
+
+df.info()
+
+
+df.describe()
+df.head(4)
+
+# remove unwanted columns 
+df = df.drop(['End of Month', 'Latitude', 'Longitude'], axis =1)
+print(df)
+
+df.head()
+df.info()
+# import libraries for statistical analysis
+import scipy.stats as stats
+import seaborn as sns 
+import matplotlib.pyplot as plt
+
+# Calculate Pearson correlation
+corr, p_value = stats.pearsonr(df['Total_Revenue'], df['Units_Sold'])
+
+# Print results
+print(f"Pearson correlation coefficient: {corr:.4f}")
+print(f"P-value: {p_value:.10f}")
+
+if p_value < 0.05:
+    print("There is a statistically significant correlation between Revenue and Quantity sold.")
+else:
+    print("There is no statistically significant correlation between revenue and quantity sold.")
+
+# Plotting with consistent column names
+sns.lmplot(x="Units_Sold", y="Total_Revenue", data=df, aspect=1.5)
+plt.title(f"Sales vs Quantity (r={corr:.2f})")
+plt.show()
+```
 
 **Key Insights:**
 
