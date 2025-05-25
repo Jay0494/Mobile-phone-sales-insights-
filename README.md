@@ -1,10 +1,3 @@
-To achieve the "clickable" table of contents on GitHub, you need to use anchor links. This involves:
-
-1.  Creating a link in the table of contents using the format `[Section Title](#section-title-id)`.
-2.  Ensuring each target heading has a unique ID. GitHub automatically generates these IDs for headings by converting the heading text to lowercase and replacing spaces with hyphens.
-
-Here's your data analysis portfolio piece with the clickable table of contents for GitHub:
-
 ## Driving 2025 Sales: A Data-Driven Strategy for Mr. Chang's Mobile Empire
 
 -----
