@@ -1,10 +1,10 @@
-## **Project Title:** Driving 2025 Sales: A Data-Driven Strategy for Mr. Chang's Mobile Empire
-## **Role:** Freelance Data Analyst
-## **Objective:** Provide Mr. Chang, an entrepreneur with mobile phone shops in Pakistan, Bangladesh, Turkey, and India, with data-driven insights from his 2024 sales performance to inform and drive his 2025 sales strategy.
+ **Project Title:** Driving 2025 Sales: A Data-Driven Strategy for Mr. Chang's Mobile Empire
+ **Role:** Freelance Data Analyst
+ **Objective:** Provide Mr. Chang, an entrepreneur with mobile phone shops in Pakistan, Bangladesh, Turkey, and India, with data-driven insights from his 2024 sales performance to inform and drive his 2025 sales strategy.
 
 * **POWERBI LINK**:https://app.powerbi.com/3efc99ad-c5bc-4abb-a138-df66ae63a9cf
 
-### **Methodology:**
+**Methodology:**
 * **Business Understanding:** Collaborated with stakeholders to define key business questions around sales drivers and growth opportunities.
 * **Data Preparation (Power Query):** Cleaned raw data, removed irrelevant columns, implemented a star schema (fact/dimension tables), and ensured correct data types.
 * **Exploratory Data Analysis (Power BI & Python):** Analyzed overall performance metrics, temporal sales trends, revenue vs. purchase discrepancies, operating system contributions, geographical performance, brand performance, product attribute preferences (color, storage, value segment), and customer demographics.
