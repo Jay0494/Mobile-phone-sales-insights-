@@ -1,18 +1,21 @@
-**Project Title:** Driving 2025 Sales: A Data-Driven Strategy for Mr. Chang's Mobile Empire
-**Role:** Freelance Data Analyst
-**Objective:** Provide Mr. Chang, an entrepreneur with mobile phone shops in Pakistan, Bangladesh, Turkey, and India, with data-driven insights from his 2024 sales performance to inform and drive his 2025 sales strategy.
+## **Project Title:** Driving 2025 Sales: A Data-Driven Strategy for Mr. Chang's Mobile Empire
+## **Role:** Freelance Data Analyst
+## **Objective:** Provide Mr. Chang, an entrepreneur with mobile phone shops in Pakistan, Bangladesh, Turkey, and India, with data-driven insights from his 2024 sales performance to inform and drive his 2025 sales strategy.
 
 * **POWERBI LINK**:https://app.powerbi.com/3efc99ad-c5bc-4abb-a138-df66ae63a9cf
 
-**Methodology:**
+### **Methodology:**
 * **Business Understanding:** Collaborated with stakeholders to define key business questions around sales drivers and growth opportunities.
 * **Data Preparation (Power Query):** Cleaned raw data, removed irrelevant columns, implemented a star schema (fact/dimension tables), and ensured correct data types.
 * **Exploratory Data Analysis (Power BI & Python):** Analyzed overall performance metrics, temporal sales trends, revenue vs. purchase discrepancies, operating system contributions, geographical performance, brand performance, product attribute preferences (color, storage, value segment), and customer demographics.
 * **Advanced Analytics (Python):** Conducted correlation studies, identifying a strong positive correlation (0.74) between sales and quantity purchased.
 
-![Screenshot_20250525-190500_Power BI](https://github.com/user-attachments/assets/8d95056b-194b-4054-b25d-3725fb8bd436)
+
 
 **Key Insights:**
+
+![Screenshot_20250525-190500_Power BI](https://github.com/user-attachments/assets/8d95056b-194b-4054-b25d-3725fb8bd436)
+
 * **Strong Growth Months:** May, July, October (peak +32.01%), and December showed significant sales increases.
 * **Sales Decline:** September experienced the greatest sales drop (-20.9%).
 * **Revenue Discrepancy:** Increased purchases in March, April, and August did not correspond with revenue growth, suggesting issues with product mix or discounting.
