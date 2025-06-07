@@ -2,7 +2,7 @@
  **Role:** Freelance Data Analyst
  **Objective:** Provide Mr. Chang, an entrepreneur with mobile phone shops in Pakistan, Bangladesh, Turkey, and India, with data-driven insights from his 2024 sales performance to inform and drive his 2025 sales strategy.
 
-* **POWERBI LINK**:https://app.powerbi.com/3efc99ad-c5bc-4abb-a138-df66ae63a9cf
+* **POWERBI LINK**:https://drive.google.com/file/d/1Fw-rU-cSSFfGzOwCJIzaYFQG3lv2YFpf/view?usp=sharing
 
 **Methodology:**
 * **Business Understanding:** Collaborated with stakeholders to define key business questions around sales drivers and growth opportunities.
