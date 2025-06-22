@@ -54,6 +54,7 @@ plt.show()
 ```
 
 **Key Insights:**
+![sakes](https://github.com/user-attachments/assets/1303619d-8716-45d5-9731-977c3655ed4f)
 
 ![Screenshot_20250525-190500_Power BI](https://github.com/user-attachments/assets/8d95056b-194b-4054-b25d-3725fb8bd436)
 
@@ -82,3 +83,7 @@ Provided actionable recommendations focusing on:
 * Ensuring optimal inventory based on sales-quantity correlation.
 
 **Impact:** Transformed raw sales data into a clear, actionable roadmap, enabling Mr. Chang to make informed strategic decisions for sustained growth and increased profitability in 2025.
+
+# QUESTIONS:
+- Why did sales drop dramatically in september?
+- What was the driving force behind the increased sales in October?
